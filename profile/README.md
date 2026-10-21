@@ -1,4 +1,4 @@
-![got-a.page - Everyone's got a page](profile/assets/banner.svg)
+![got-a.page - Everyone's got a page](assets/banner.svg)
 
 # Everyone's got a page.
 
